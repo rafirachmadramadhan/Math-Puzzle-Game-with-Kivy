@@ -7,7 +7,7 @@ Game Pola Barisan adalah permainan yang melatih kemampuan berpikir logis dan men
 </p>
 
 <h2 align="center">
-Preview Epoch
+Preview Game
 </h2>
 <p align="center">
   <img width="45%" alt="Math" title="Math" src="screenshots/1.png"/>
